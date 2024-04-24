@@ -1,0 +1,8 @@
+{
+  "contest": 366,
+  "handle": "ktg",
+  "risk": "2",
+  "title": "FlashloanLiquidator will fail if liquidationCost is 0.",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2024-04-revert-mitigation-findings/issues/45"
+}
