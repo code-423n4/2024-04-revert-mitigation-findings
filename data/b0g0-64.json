@@ -1,0 +1,8 @@
+{
+  "contest": 366,
+  "handle": "b0g0",
+  "risk": "2",
+  "title": "V3Vault::_deposit incorrectly validates the global lending limit and allows borrowing of assets above the limit",
+  "issueId": 64,
+  "issueUrl": "https://github.com/code-423n4/2024-04-revert-mitigation-findings/issues/64"
+}
