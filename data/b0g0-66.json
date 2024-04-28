@@ -1,0 +1,8 @@
+{
+  "contest": 366,
+  "handle": "b0g0",
+  "risk": "3",
+  "title": "An attacker can DOS AutoExit and AutoRange transformers and incur losses for position owners",
+  "issueId": 66,
+  "issueUrl": "https://github.com/code-423n4/2024-04-revert-mitigation-findings/issues/66"
+}
